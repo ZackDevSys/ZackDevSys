@@ -4,7 +4,7 @@
  Sempre fui apaixonado por tecnologia — desde cedo ela faz parte da minha vida. Busco constantemente me aprimorar e desenvolver minhas habilidades nessa área, com o objetivo de me especializar e construir uma carreira sólida como desenvolvedor full stack, atuando de forma completa no front-end e back-end.
 </div>
 <div>
-  _____________________________________________________________________________________________________________________________________________________
+  __________________________________________________________________________________________________________________________________________________
 </div>
 
 ### 💡 Interesses:
