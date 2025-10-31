@@ -20,7 +20,7 @@
   <br>Sempre buscando evoluir como desenvolvedor, explorando novas tecnologias e métodos ágeis, aprimorando minhas habilidades em todas as etapas do desenvolvimento de sistemas.
 </div>
 <div>
-  ________________________________________________________________________________________________________________________________________________________
+  _________________________________________________________________________________________________________________________________________________
 </div>
 
 ### 🧰 Linguagens e Tecnologias
@@ -36,7 +36,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 <div>
-  ________________________________________________________________________________________________________________________________________________________
+  _________________________________________________________________________________________________________________________________________________
 </div>
 
 ### 📊 Estatísticas do GitHub
