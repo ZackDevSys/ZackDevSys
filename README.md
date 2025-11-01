@@ -3,9 +3,7 @@
 <div>
  Sempre fui apaixonado por tecnologia — desde cedo ela faz parte da minha vida. Busco constantemente me aprimorar e desenvolver minhas habilidades nessa área, com o objetivo de me especializar e construir uma carreira sólida como desenvolvedor full stack, atuando de forma completa no front-end e back-end.
 </div>
-<div>
-  _________________________________________________________________________________________________________________________________________________
-</div>
+<hr style="border: 2px">
 
 ### 💡 Interesses:
 <div>
@@ -19,9 +17,7 @@
  
   <br>Sempre buscando evoluir como desenvolvedor, explorando novas tecnologias e métodos ágeis, aprimorando minhas habilidades em todas as etapas do desenvolvimento de sistemas.
 </div>
-<div>
-  _________________________________________________________________________________________________________________________________________________
-</div>
+<hr style="border: 2px">
 
 ### 🧰 Linguagens e Tecnologias
 <div>
@@ -35,9 +31,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
-<div>
-  _________________________________________________________________________________________________________________________________________________
-</div>
+<hr style="border: 2px">
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
