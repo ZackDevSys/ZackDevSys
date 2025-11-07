@@ -1,4 +1,4 @@
-## 👋 Olá, sou Isaac Costa, estudante de Desenvolvimento de Sistemas 📚🚀
+## 🧠 Isaac Costa — amante de código limpo, café e aquele “aha!” depois de resolver um bug.
 ### 💻 Um pouquinho sobre mim:
 <div>
  Sempre fui apaixonado por tecnologia — desde cedo ela faz parte da minha vida. Busco constantemente me aprimorar e desenvolver minhas habilidades nessa área, com o objetivo de me especializar e construir uma carreira sólida como desenvolvedor full stack, atuando de forma completa no front-end e back-end.
@@ -23,7 +23,6 @@
 <div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
