@@ -1,4 +1,4 @@
-### 🧠 Isaac Costa — amante de código limpo, café e aquele “aha!” depois de resolver um bug.
+### 🧠 Isaac Costa | amante de código limpo, café e aquele “aha!” depois de resolver um bug.
 <hr style="border: 2px">
 
 ### 💻 Um pouquinho sobre mim:
