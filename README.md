@@ -43,3 +43,10 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZackDevSys&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackDevSys&layout=compact&langs_count=7&theme=transparent" />
 </div>
+
+### 📬 Contatos 
+<div> 
+<a href="mailto:zackdev2014@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+ <a href="https://www.linkedin.com/in/zack-dev" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+ <a href="https://github.com/ZackDevSys" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> 
+</div>
